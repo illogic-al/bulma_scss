@@ -44,7 +44,7 @@ function getFilesFromFolder (packageName, folder) {
 Package.onUse(function (api) {
   var files = getFilesFromFolder('', '.');
 //console.log('files', files[1]);
-  api.use('fourseven:scss@4.0.0');
+  api.use('fourseven:scss@4.12.0');
   api.addFiles(files, 'client', { isImport: true });
 });
 
