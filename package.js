@@ -1,10 +1,10 @@
 Package.describe({
-  name: 'bduff9:bulma',
+  name: 'illogical:bulma',
   version: '0.8.2',
   // Brief, one-line summary of the package.
   summary: 'Bulma css (v0.8.2), files are in .scss format for use in Meteor projects',
   // URL to the Git repository containing the source code for this package.
-  git: 'https://github.com/bduff9/bulma_scss',
+  git: 'https://github.com/illogic-al/bulma_scss',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
@@ -51,5 +51,5 @@ Package.onUse(function (api) {
 Package.onTest(function (api) {
   api.use('ecmascript');
   api.use('tinytest');
-  api.use('bduff9:bulma');
+  api.use('illogical:bulma');
 });

@@ -2,12 +2,12 @@
   "name": "bulma_scss",
   "version": "0.8.2",
   "homepage": "https://bulma.io",
-  "author": "Brian Duffey <bduff9@gmail.com> (http://asitewithnoname.com)",
+  "author": "Orville Bennett <orbit@orbitsolutions.dev> (https://orbitsolutions.dev)",
   "description": "Modern CSS framework based on Flexbox, scss version",
   "main": "bulma.scss",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bduff9/bulma_scss.git"
+    "url": "git+https://github.com/illogic-al/bulma_scss.git"
   },
   "license": "MIT",
   "keywords": [
